@@ -6,7 +6,7 @@
 ### Category Name 1 
 
 <a href="https://taylor-true.github.io/NH-pace/">New Hampshire 2018-2019 PACE Pilot Program: Disaggregated Data Visualization</a><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2024-03-16 at 7.45.48 PM.png"/>
 
 ---
 <a href="https://showspace.so/p/8883?refPageType=user&refPageLabel=Taylor%20True&refPageSlug=taylor-true-56">PISA 2018: Reading Scores and "Life Satisfaction" - Educational Data Mining</a>
