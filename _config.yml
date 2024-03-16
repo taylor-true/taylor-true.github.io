@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Taylor M. True # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ Harvard Graduate School of Education, Education Policy & Analysis (2024)
   <br><br>
-  Second description 
+  <i><a href="https://edredesign.org/people/taylor-true">Research Fellow @ EdRedesign Lab</a></i>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/taylor-true-324645b6/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="50"></a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
