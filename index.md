@@ -6,19 +6,19 @@
 ### Data Projects
 
 <a href="https://taylor-true.github.io/NH-pace/">New Hampshire 2018-2019 PACE Pilot Program: Disaggregated Data Visualization</a><br><br>
-<img src="images/Screen Shot 2024-03-16 at 7.45.48 PM.png" height = "300"/>
+<img src="images/NH_SCORES_COMPLETE_2018-19.png" height = "350"/>
 
 ---
 <a href="https://showspace.so/p/8883?refPageType=user&refPageLabel=Taylor%20True&refPageSlug=taylor-true-56">PISA 2018: Reading Scores and "Life Satisfaction" - Educational Data Mining</a><br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2024-03-16 at 7.45.48 PM.png" height = "350"/>
 
 ---
 <a href="https://taylor-true.github.io/gis-kentucky-climate/">Interactive GIS Visualization: Kentucky School Climate Index Scores by County</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen Shot 2024-03-16 at 7.46.48 PM.png" height = "350"/>
 
 ---
 
-### Category Name 2
+Articles & Reports
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
