@@ -1,18 +1,19 @@
 ## Portfolio
 
+
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+<a href="https://taylor-true.github.io/NH-pace/">New Hampshire 2018-2019 PACE Pilot Program: Disaggregated Data Visualization</a><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+<a href="https://showspace.so/p/8883?refPageType=user&refPageLabel=Taylor%20True&refPageSlug=taylor-true-56">PISA 2018: Reading Scores and "Life Satisfaction" - Educational Data Mining</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+<a href="https://taylor-true.github.io/gis-kentucky-climate/">Interactive GIS Visualization: Kentucky School Climate Index Scores by County</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
