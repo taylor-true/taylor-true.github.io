@@ -18,11 +18,11 @@
 
 ---
 
-Articles & Reports
+### Articles & Reports
 
 - [Undergraduate Writing Samples](https://u.osu.edu/true.25/)
 - <br><br>
-(More coming soon)
+(More coming soon!)
 
 ---
 
