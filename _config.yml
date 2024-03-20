@@ -1,6 +1,6 @@
-title: Taylor True # your name (or website title) here
+title: Taylor True  #name/title
 logo: "https://showspace.so/_next/image?url=https%3A%2F%2Fchmqmeyyaiwfybqgcdoy.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fusers%2F18710258-7aa3-460b-9c02-1085e8e15577%2Ftaylor-true-avatar-zR.png&w=2048&q=70" height = "200" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > #desc
  Harvard Graduate School of Education, Education Policy & Analysis (2024)
   <br><br>
   <i><a href="https://edredesign.org/people/taylor-true">Research Fellow @ EdRedesign Lab</a></i>
@@ -10,4 +10,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # Google Analytics tracking ID here
