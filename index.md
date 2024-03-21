@@ -18,6 +18,15 @@
 
 ---
 
+### Art & Design
+
+<a href="https://taylor-true.github.io/portfolio-template/">(Static HTML/CSS) Visual Artist Portfolio - Template/Sample</a><br><br>
+<img src="images/Screen Shot 2024-03-21 at 12.16.42 AM.png" width = "350"/> 
+
+
+---
+
+
 ### Articles & Reports
 
 - [Undergraduate Writing Samples](https://u.osu.edu/true.25/)
