@@ -7,9 +7,6 @@ description: > #desc
   <br><br>
   <a href="https://www.linkedin.com/in/taylor-true-324645b6/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="30"></a> 
   <a href="https://twitter.com/tay_false"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" height = "30"></a>
-<br><br>
-
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
