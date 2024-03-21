@@ -3,7 +3,7 @@
 
 ---
 
-### Data Projects
+### Data Projects 
 
 <a href="https://taylor-true.github.io/NH-pace/">New Hampshire 2018-2019 PACE Pilot Program: Disaggregated Data Visualization</a><br><br>
 <img src="images/NH_SCORES_COMPLETE_2018-19.png" height = "250"/>
