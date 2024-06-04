@@ -29,9 +29,12 @@
 
 ### Articles & Reports
 
-- [Undergraduate Writing Samples](https://u.osu.edu/true.25/)
+[Bankrolling Change in Massachusetts Schools: A Pathway to LGBTQ+ Inclusion - Harvard Kennedy School Student Policy Review](https://studentreview.hks.harvard.edu/bankrolling-change-in-massachusetts-schools-a-pathway-to-lgbtq-inclusion/)
+
+
+[Undergraduate Essays - The Ohio State University](https://u.osu.edu/true.25/)
   <br><br>
-(More coming soon!)
+
 
 ---
 
