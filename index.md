@@ -14,7 +14,7 @@
 
 ---
 <a href="https://taylor-true.github.io/gis-kentucky-climate/">Interactive GIS Visualization: Kentucky School Climate Index Scores by County</a> <br><br>
-<img src="images/Screen Shot 2024-03-16 at 7.46.48 PM.png" width = "350"/>
+<img src="images/Screen Shot 2024-06-04 at 4.01.57 AM.png" width = "350"/>
 
 ---
 
