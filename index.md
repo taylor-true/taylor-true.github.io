@@ -5,6 +5,13 @@
 
 ### Data Projects 
 
+
+
+<a href="https://taylor-true.github.io/sample-consulting-project/">(Conceptual) School District Special Education - Sample Consulting Project</a><br><br>
+<img src="images/Screen Shot 2024-08-08 at 7.52.36 PM.png" height = "250"/>
+
+---
+
 <a href="https://taylor-true.github.io/NH-pace/">New Hampshire 2018-2019 PACE Pilot Program: Disaggregated Data Visualization</a><br><br>
 <img src="images/NH_SCORES_COMPLETE_2018-19.png" height = "250"/>
 
